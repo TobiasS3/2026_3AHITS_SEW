@@ -9,3 +9,5 @@ Im Terminal:
 ```
 
 Verwende die Übungsbezeichnung als Projektnamen.
+
+https://www.franzmatejka.at/htl/doc/CSharp_3/01_Einstieg/03_Einstieg_ue01.html
